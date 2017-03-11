@@ -1,6 +1,7 @@
 # FlashMessages
 Minimalistic PHP Class to be used for basic functionality of the flash message concept
 
+```sh
 MIT License
 
 Copyright (c) 2017 Kasun Randika
@@ -22,3 +23,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
